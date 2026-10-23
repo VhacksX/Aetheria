@@ -1,0 +1,21 @@
+{
+  "name": "aetheria",
+  "version": "1.0.0",
+  "description": "> **Apple-Grade Real-Time Astronomy Web Application & Ephemeris Engine**   > Built by a Senior Full Stack Web Developer & Systems Architect.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/ios": "^8.5.3"
+  }
+}
